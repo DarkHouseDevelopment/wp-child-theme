@@ -1,0 +1,17 @@
+{
+  "name": "pv303",
+  "description": "PV303 WordPress Theme",
+  "main": "gulpfile.js",
+  "authors": [
+    "Dark House Development"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

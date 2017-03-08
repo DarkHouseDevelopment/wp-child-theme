@@ -1,0 +1,33 @@
+{
+  "name": "pv303",
+  "version": "1.0.0",
+  "description": "PV303 WordPress Theme",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.1",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "0.0.15",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11",
+    "susy": "^2.2.12"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkHouseDevelopment/wp-child-theme.git"
+  },
+  "author": "Dark House Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkHouseDevelopment/wp-child-theme/issues"
+  },
+  "homepage": "https://github.com/DarkHouseDevelopment/wp-child-theme#readme"
+}

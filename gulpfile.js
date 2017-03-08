@@ -24,7 +24,7 @@ gulp.task("js", function() {
 
 // Compile SASS files
 gulp.task("sass", function() {
-	gulp.src("_source/scss/styles.scss")
+	gulp.src("_source/scss/**/*.scss")
 		.pipe(compass({
 	      config_file: 'config.rb',
 	      css: 'assets/css',
